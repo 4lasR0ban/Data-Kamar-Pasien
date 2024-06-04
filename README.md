@@ -1,8 +1,9 @@
 # Data Kamar Pasien
 
 ## Screenshots
-![Initial View](https://github.com/4lasR0ban/Weather-App/blob/master/documents/Data-Kamar-Pasien-1.png)
-![Initial View](https://github.com/4lasR0ban/Weather-App/blob/master/documents/Data-Kamar-Pasien-2.png)
+
+![Initial View](https://github.com/4lasR0ban/Data-Kamar-Pasien/blob/main/Document/Data-Kamar-Pasien-1.png)
+![Initial View](https://github.com/4lasR0ban/Data-Kamar-Pasien/blob/main/Document/Data-Kamar-Pasien-1.png)
 
 ## Built With
   * Java
